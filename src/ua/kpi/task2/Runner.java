@@ -4,10 +4,6 @@
  */
 package ua.kpi.task2;
 
-import java.util.HashSet;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 /**
  *
  * @author lor1an
